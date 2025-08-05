@@ -2,7 +2,7 @@
 
 I'm an engineer with experience in **QA Automation**, **DevOps** and **infrastructure**. I’m passionate about Devops, Infrastructure, Linux, and automation.
 
-## 🛠️ Some of my Projects
+## 🛠️ Some of my projects
 
 ### 🏠 [HomeLab](https://github.com/AlexStefan17/homelab)  
 A personal lab built on **Proxmox** (Type 1 hypervisor), featuring multiple Linux VMs and a wide range of infrastructure services. This setup serves as a hands-on environment for learning, testing, and automating real-world scenarios.
